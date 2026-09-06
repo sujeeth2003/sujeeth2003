@@ -2,7 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:2F6FA8&height=220&section=header&text=Sujeeth%20Sukumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Low-latency%20systems%20%C2%B7%20RTL%20%C2%B7%20Quant%20%C2%B7%20Applied%20ML%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+<a href="https://sujeeth2003.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2F6FA8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sujeeth73/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:sujeeth@umd.edu"><img src="https://img.shields.io/badge/Email-14213D?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://calendar.app.google/6z1MAE1pPd1BCqET7"><img src="https://img.shields.io/badge/Schedule%2030min-2F6FA8?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
