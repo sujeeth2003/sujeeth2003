@@ -1,7 +1,6 @@
 <div align="center">
 
-<!--
-**sujeeth2003/sujeeth2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213D,100:2F6FA8&height=220&section=header&text=Sujeeth%20Sukumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Low-latency%20systems%20%C2%B7%20RTL%20%C2%B7%20Quant%20%C2%B7%20Applied%20ML%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 Here are some ideas to get you started:
 
