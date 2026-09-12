@@ -7,12 +7,19 @@
 <a href="mailto:sujeeth@umd.edu"><img src="https://img.shields.io/badge/Email-14213D?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://calendar.app.google/6z1MAE1pPd1BCqET7"><img src="https://img.shields.io/badge/Schedule%2030min-2F6FA8?style=for-the-badge&logo=googlecalendar&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+### About
+
+M.S. Data Science candidate at the University of Maryland, College Park. I build things end to end and benchmark every claim I make about them, from a cache-aware C++ matching engine down to a hand-verified RISC-V pipeline.
+
+Five tracks I keep coming back to:
+
+- **Low-latency systems** - lock-free C++, atomics, AVX2, kernel bypass, core pinning
+- **RTL / hardware** - SystemVerilog, UVM, formal verification, AXI-Lite, CDC
+- **Quant & trading** - regime detection, walk-forward backtesting, from-scratch HMMs
+- **Applied ML / GenAI** - transformer architectures from scratch, RAG, agent orchestration
+- **Data engineering** - AWS pipelines, PostgreSQL, MongoDB, Redis
+
