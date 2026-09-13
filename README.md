@@ -23,3 +23,17 @@ Five tracks I keep coming back to:
 - **Applied ML / GenAI** - transformer architectures from scratch, RAG, agent orchestration
 - **Data engineering** - AWS pipelines, PostgreSQL, MongoDB, Redis
 
+Full write-ups with real benchmarks (not vibes) live on my [portfolio](https://sujeeth2003.github.io/Portfolio/).
+
+<br>
+
+### Featured builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Limit Order Book & Matching Engine**
+A price-time-priority matching engine taken from a correct-but-slow `std::map` baseline to a cache-aware, branchless, SIMD-accelerated, single-writer design. Six versions, each benchmarked.
+`C++` `Atomics` `AVX2` `Lock-free design`
+
