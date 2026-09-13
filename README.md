@@ -53,3 +53,16 @@ A fetch-decode-execute-memory-writeback pipeline in SystemVerilog with hazard fo
 A tested PyTorch implementation of the architecture, scaling laws, training loop, and DPO alignment from the DeepSeek LLM paper, verified against the paper's own reference numbers.
 `PyTorch` `RoPE / GQA` `SFT + DPO`
 
+</td>
+<td width="50%" valign="top">
+
+**AI-Powered Startup Deal Sourcing** ([founder-scout](https://github.com/sujeeth2003/founder-scout))
+A LangGraph agent that enriches founder signals via the GitHub API and scores Series A fit with a gradient-boosted classifier (0.81 ROC-AUC).
+`LangGraph` `Claude` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+<br>
+
