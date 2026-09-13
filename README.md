@@ -66,3 +66,11 @@ A LangGraph agent that enriches founder signals via the GitHub API and scores Se
 
 <br>
 
+### Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,verilog,pytorch,tensorflow,aws,postgres,mongodb,redis,docker,git&theme=dark"/>
+</p>
+
+<br>
+
