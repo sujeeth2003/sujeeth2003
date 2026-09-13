@@ -37,3 +37,19 @@ Full write-ups with real benchmarks (not vibes) live on my [portfolio](https://s
 A price-time-priority matching engine taken from a correct-but-slow `std::map` baseline to a cache-aware, branchless, SIMD-accelerated, single-writer design. Six versions, each benchmarked.
 `C++` `Atomics` `AVX2` `Lock-free design`
 
+</td>
+<td width="50%" valign="top">
+
+**5-Stage Pipelined RISC-V CPU + UVM**
+A fetch-decode-execute-memory-writeback pipeline in SystemVerilog with hazard forwarding, a CDC bridge, and a 100+ test UVM regression at zero scoreboard mismatches.
+`SystemVerilog` `UVM` `SVA` `SymbiYosys`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Building DeepSeek LLM From Scratch**
+A tested PyTorch implementation of the architecture, scaling laws, training loop, and DPO alignment from the DeepSeek LLM paper, verified against the paper's own reference numbers.
+`PyTorch` `RoPE / GQA` `SFT + DPO`
+
