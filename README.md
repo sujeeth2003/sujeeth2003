@@ -74,6 +74,14 @@ A LangGraph agent that enriches founder signals via the GitHub API and scores Se
 
 <br>
 
+### Systems, hardware and low-latency
+
+- **Low-latency C++:** [limit-order-book-matching-engine](https://github.com/sujeeth2003/limit-order-book-matching-engine) · [market-data-feed-handler](https://github.com/sujeeth2003/market-data-feed-handler) · [low-overhead-latency-tracer](https://github.com/sujeeth2003/low-overhead-latency-tracer) · [q-timeseries-toolkit](https://github.com/sujeeth2003/q-timeseries-toolkit)
+- **RTL and compilers:** [rtl-digital-design](https://github.com/sujeeth2003/rtl-digital-design) · [verilog-compiler](https://github.com/sujeeth2003/verilog-compiler)
+- **Distributed and real-time systems:** [google-file-system-simplified](https://github.com/sujeeth2003/google-file-system-simplified) · [tank-control-modbus](https://github.com/sujeeth2003/tank-control-modbus) · [p2p](https://github.com/sujeeth2003/p2p)
+
+<br>
+
 ### GitHub
 
 <div align="center">
