@@ -82,6 +82,17 @@ A LangGraph agent that enriches founder signals via the GitHub API and scores Se
 
 <br>
 
+### Machine learning, data and tools
+
+- **Research implementations and RL:** [deepseek-llm-from-scratch](https://github.com/sujeeth2003/deepseek-llm-from-scratch) · [sparse-autoencoder](https://github.com/sujeeth2003/sparse-autoencoder) · [dcgan-mnist](https://github.com/sujeeth2003/dcgan-mnist) · [text-to-image-generator](https://github.com/sujeeth2003/text-to-image-generator) · [rl-puzzle-solver](https://github.com/sujeeth2003/rl-puzzle-solver) · [DC-Motor-control-using-Reinforcement-Learning---DDPG](https://github.com/sujeeth2003/DC-Motor-control-using-Reinforcement-Learning---DDPG)
+- **Applied ML:** [time-series-anomaly-detection](https://github.com/sujeeth2003/time-series-anomaly-detection) · [remaining-useful-life-turbofan](https://github.com/sujeeth2003/remaining-useful-life-turbofan) · [anime-recommender](https://github.com/sujeeth2003/anime-recommender) · [founder-scout](https://github.com/sujeeth2003/founder-scout) · [AI_Classifier](https://github.com/sujeeth2003/AI_Classifier) · [Real-vs-AI-Classifier](https://github.com/sujeeth2003/Real-vs-AI-Classifier) · [Fraud-Detection](https://github.com/sujeeth2003/Fraud-Detection) · [Spending-Assistant](https://github.com/sujeeth2003/Spending-Assistant) · [content-analytics-platform](https://github.com/sujeeth2003/content-analytics-platform) · [hotel-site-selection](https://github.com/sujeeth2003/hotel-site-selection)
+- **LLM and data engineering:** [multi-agent-analytics](https://github.com/sujeeth2003/multi-agent-analytics) · [dmv-rag-pipeline](https://github.com/sujeeth2003/dmv-rag-pipeline) · [aws-healthcare-pipeline](https://github.com/sujeeth2003/aws-healthcare-pipeline) · [Healthcare-Interoperability-Care-Coordination-Platform](https://github.com/sujeeth2003/Healthcare-Interoperability-Care-Coordination-Platform) · [eureka-research-lineage](https://github.com/sujeeth2003/eureka-research-lineage) · [datalineage](https://github.com/sujeeth2003/datalineage)
+- **Quant and trading:** [TradingAlgo](https://github.com/sujeeth2003/TradingAlgo) · [PairTrade](https://github.com/sujeeth2003/PairTrade) · [quant-learning-platform](https://github.com/sujeeth2003/quant-learning-platform)
+- **Tools:** [csv-version-control](https://github.com/sujeeth2003/csv-version-control) · [RentTracker](https://github.com/sujeeth2003/RentTracker) · [Email-Read-Receipt](https://github.com/sujeeth2003/Email-Read-Receipt)
+- **Sites:** [Portfolio](https://github.com/sujeeth2003/Portfolio) · [data-consulting-portfolio](https://github.com/sujeeth2003/data-consulting-portfolio)
+
+<br>
+
 ### GitHub
 
 <div align="center">
