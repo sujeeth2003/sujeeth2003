@@ -78,8 +78,6 @@ A LangGraph agent that enriches founder signals via the GitHub API and scores Se
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sujeeth2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DB3E8&icon_color=7DB3E8&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sujeeth2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DB3E8&text_color=c9d1d9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeeth2003&theme=tokyonight&hide_border=true&background=0D1117&ring=7DB3E8&fire=7DB3E8&currStreakLabel=7DB3E8"/>
 
